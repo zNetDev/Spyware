@@ -24,7 +24,7 @@ Antes de ejecutar el código, necesitas configurar un servidor al que el script 
 
 •modificiacion del código 
 
-Abre el archivo de código Python en un editor de texto o un entorno de desarrollo integrado (IDE) como Visual Studio Code o PyCharm. Busca la línea que contiene la dirección IP y el puerto del servidor remoto, esta se encuentra en la línea 80 del código (s.connect(('192.168.1.100', 12345))). Cambia la dirección IP '192.168.1.100' y el puerto 12345 por los de tu servidor remoto
+Abre el archivo de código Python en un editor de texto o un entorno de desarrollo integrado (IDE) como Visual Studio Code o PyCharm. Busca la línea que contiene la dirección IP y el puerto del servidor remoto, esta se encuentra en la línea 104 del código tambien en la 122 (para que no se confundan al respecto) (s.connect(('192.168.1.100', 12345))). Cambia la dirección IP '192.168.1.100' y el puerto 12345 por los de tu servidor remoto
 
 •ejecutar el code
 
