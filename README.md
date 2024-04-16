@@ -1,4 +1,4 @@
-Spyware made in python with me, zNetDev.a
+Spyware made in python with me, zNetDev
 
 A simple spyware with anti-debugging and anti-sandboxinga
 
